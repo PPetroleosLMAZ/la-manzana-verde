@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ManzanaVerde</string>
+    <string name="hyperlink">¿No puedes iniciar sesión?\u0020<a href="https://learntodroid.com">Olvidé mi contraseña</a></string>
+</resources>
